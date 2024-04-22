@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508557963132",
+    "project_id": "roadtripper-355f5",
+    "storage_bucket": "roadtripper-355f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508557963132:android:ecdc64c6dba0c22cedbef9",
+        "android_client_info": {
+          "package_name": "com.roadtrippers.weather.activity.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508557963132-6fe0nbuv7fi6bp3j588gsrmgbhgacqsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLE6XJ0WZ2NNSxAwNWFuTVDZUBzVD9cn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508557963132-6fe0nbuv7fi6bp3j588gsrmgbhgacqsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
